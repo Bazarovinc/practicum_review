@@ -149,3 +149,4 @@ es_data
 trash
 trash/*.py
 trash/main.py
+.flake8
